@@ -7,7 +7,7 @@ TopcoderのSRMの過去問の解答コードです。
 このフォルダにはSRM本番でACしたコードは含まれてません。
 
 このコードの一部は
-SpaghettiSource(http://www.prefield.com/algorithm/)や
+[SpaghettiSource](https://web.archive.org/web/20200419142340/http://www.prefield.com/algorithm/)や
 プログラミングコンテストチャレンジブック（秋葉拓哉・岩田陽一・北川宜稔著）
 に掲載されているライブラリを参考にさせて頂きました。
 利用するのは個人の自由ですが、このコードを利用することにより受けた損害に対する補償は行いません。
